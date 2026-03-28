@@ -1,59 +1,50 @@
-### Hi there 👋
+# 💻 Olá, sou Luiz Augusto!
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🛠️ Futuro desenvolvedor focado em **Backend e Node.js**  
+🚀 Em constante evolução e construindo projetos reais
 
-*itálico* ou _itálico_
+---
 
-**Negrito** ou __negrito__
+## 👨‍💻 Sobre mim
 
-___negrito e itálico___
+- 📚 Atualmente estudando **Java, Banco de Dados e React.js**
+- 💡 Apaixonado em tecnologia, programação e hardware
+- 🎯 Objetivo: conquistar minha vaga dos sonhos na área de TI
 
-- Lista 1
-- Lista 2
-    - Sublista
+---
 
-1. Lista 1
-2. Lista 2
-    1. Sublista
+## 🧠 Tecnologias que estou aprendendo
 
-[Texto da imagem](https://i.pinimg.com/736x/b9/5c/6b/b95c6bcdba31c713704caee4c8223af9.jpg)
+### 💻 Linguagens
+- Java ☕
+- Python 🐍
+- JavaScript 🟨
+- React.js ⚛️
+- SQL 🗄️
 
+### ⚙️ Ferramentas
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- MySQL
 
-![Texto da imagem](https://upload.wikimedia.org/wikipedia/commons/e/ec/Sunset_in_Manaus.jpg)
+---
 
-`system.out.prinln();`
+## 📌 Projetos em destaque
 
-```system.out.println(); system.out.prinln();system.out.prinln();system.out.prinln();system.out.prinln();system.out.prinln(); ```
+🔹 Em breve novos projetos chegando…  
+Estou trabalhando em projetos de estudo que serão publicados aqui 👀
 
-> Texto das Citações
----------------------------
+---
 
+## 📫 Como me encontrar
 
-| Cabeçalho 1 | Cabeçalho 2 |
-|-------------|-------------|
-| texto1      | texto2      |
-| texto3      | texto4      |
+- 💼 LinkedIn: [Meu perfil](https://www.linkedin.com/in/lu%C3%ADz-augusto-7988582b5/)
+- 📧 Email: lamazevedodev@gmail.com
+- 📷 Instagram: [Meu perfil](https://www.instagram.com/luiz_augusto1105/)
 
-[X] Tarefa 1 <br>
-[ ] Tarefa 2
+---
 
-
-<!--
-**Luiz-Augusto-dev/Luiz-Augusto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Obrigado por visitar meu perfil!
